@@ -4,6 +4,9 @@ This is a text document with information about things to do in most places in th
 
 ### Eat 
 
+ -[ ] Ice Cream  
+ -[ ] Donuts 
+ -[ ] Pizza 
 
 ### Walk 
 
