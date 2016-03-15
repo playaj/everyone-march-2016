@@ -9,6 +9,7 @@ This is a text document with information about things to do in most places in th
  -[ ] Pizza 
 
 ### Walk 
-
+ - [ ] Around 
+ - [ ] In a line
 
 ### Relax 
