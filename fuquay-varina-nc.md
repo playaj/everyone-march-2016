@@ -8,7 +8,8 @@
 ### Great places to eat
 
 - Aviator's Smokehouse and Brewery
-- Cooley's
+- ~~Cooley's~~
+- Snoopy's
 
 ### Great places to stay
 
