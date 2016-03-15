@@ -11,6 +11,6 @@
 - The Heathman
 
 ### Fun activities
-- go to OMSI
+- go to [OMSI](http://www.omsi.edu/)
 - go wine tasting in the Willamette Valley
 - Visit Powell's bookstore
