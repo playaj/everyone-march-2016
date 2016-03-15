@@ -1,6 +1,6 @@
 ## Visiting San Diego CA
 
-- Bring $$$
+- Bring $$$ or Pesos
 
 ### No fun
 
@@ -8,8 +8,8 @@
 
 ### Horrible weather
 
-- Not really bad
+- Not really bad, except for El Niño
 
 ### Too much sun
 
-- Actually cloudy yesterday
+- Actually cloudy yesterday and cool
