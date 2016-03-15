@@ -2,7 +2,7 @@
 
 ### Places to cycle
 Along the river
-Across the cobbles
+Across the cobbles by the colleges
 
 ### Colleges to see
 Christ Church
